@@ -11,11 +11,12 @@ Regardless of your Mac device, the performance and functionality of PuTTY for Ma
 - **Key Conversion Tool:** PuTTYgen, a handy feature in the application, allows users to generate and convert SSH keys with ease.
 - **Session Saving:** Activating this feature makes PuTTY on MacBook Pro remember and repopulate your log in details, saving you the stress of memorizing complicated codes.
 
-.. image:: docs/putty-mac.jpg
-   :alt: Interface of the PuTTY application on Mac Laptop
+.. image:: ../putty-windows-software.jpg
+   :alt: Description of the image
    :align: center
+   :class: full-width-image
 
-Installing and Launching PuTTY on Mac Laptop
+Installing and Launching PuTTY on a Mac Laptop
 --------------------------------------------
 
 Thanks to a simple user interface, you can effortlessly install PuTTY on Mac. The process is straightforward, even for less tech-savvy users. After launching the downloaded application, you'll be guided by prompts to complete the installation.
