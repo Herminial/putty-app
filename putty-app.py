@@ -1,5 +1,5 @@
 """
-Lumache - Python library for cooks and food lovers.
+PuTTY application - terminal emulator for computer.
 """
 
 __version__ = "0.1.0"
