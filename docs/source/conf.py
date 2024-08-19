@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'PuTTY App'
+copyright = '2024, Hermina'
+author = 'Hermina'
 
 release = '0.1'
 version = '0.1.0'
