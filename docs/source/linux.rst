@@ -1,4 +1,4 @@
-PuTTY for Linux 💻 Download PuTTY for Ubuntu & Install on Linux Mint for Free
+PuTTY for Linux ⬇️ Download PuTTY for Ubuntu & Install on Linux Mint for Free
 ==============================================================================
 When you utilize PuTTY on Linux, it not only supports SSH, it also offers Telnet, Rlogin, and Raw TCP client functions. It presents support for X11 forwarding for secure GUI connectivity and facilitates secure file transfer via SCP and SFTP protocols.
 
@@ -6,7 +6,6 @@ Additionally, PuTTY for Linux to download supports a variety of ciphers like 3DE
 
 Using PuTTY Terminal on Linus & Its Different Distributions
 -----------------------------------------------------------
-
 Even when you run PuTTY on Linux, you'll find it adapts well to any Linux environment. Whether you're using Ubuntu, Fedora, or PuTTY on Linux Mint, the application maintains its user-friendly interface and offers the same powerful functionalities.
 
 Steps to Install PuTTY App on Linux
