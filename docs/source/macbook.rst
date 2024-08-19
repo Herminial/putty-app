@@ -1,3 +1,5 @@
+PuTTY App for Mac ⬇️ Download PuTTY for macOS for Free - Install App on MacBook, iMac or Mac Pro
+=================================================================================================
 Understanding the need to operate the PuTTY on Mac OS, it was necessary to optimize it for an enhanced user experience. Reputable for its easy-to-use features on Windows, the MacOS version maintains this prestigious reputation.
 
 Features of PuTTY Terminal Emulator  for MacOS Version
