@@ -1,4 +1,4 @@
-PuTTY for Windows 10 > Download PuTTY App & Install for Free | Get Latest Version
+PuTTY for Windows 10 ⬇️ Download PuTTY App & Install for Free | Get Latest Version
 =================================================================================
 When it comes to SSH or Telnet client applications, PuTTY stands out due to its robust encryption and compatibility. In the modern landscape of remote servers and net-centric operations, it caters to professionals who value secure, versatile network utilities. You can count on the PuTTY client for Windows 10 to provide a seamless remote server experience.
 
