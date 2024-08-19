@@ -7,6 +7,11 @@ PuTTY for Windows 10 PC: Broad Array of Features
 
 The reason behind the preference for the PuTTY app to download for Windows 10 lies in its rich features. You get full control over the SSH encryption key and protocol version. Besides, it supports SSH-1, SSH-2, SSH-3, and has SCP and SFTP that can be called from the command line.
 
+.. image:: ../putty-windows.png
+   :alt: Description of the image
+   :align: center
+   :class: full-width-image
+
 The application is designed for use with IPv6, ensuring it keeps pace with evolving internet standards. With such robust characteristics, it's easy to see why you'd choose to download PuTTY for Windows 10 64-bit.
 
 Downloading & Installing Free PuTTY Client for Windows 10
