@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'PuTTY App'
-copyright = '2024, Hermina'
+copyright = '2024, Hermina. Disclaimer: We are not the official representatives of this app. We are a group of enthusiastic fans dedicated to providing helpful materials and resources for others.'
 author = 'Hermina'
 
 release = '0.1'
