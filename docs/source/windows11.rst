@@ -7,6 +7,11 @@ Putting PuTTY App on Windows 11 PC to Use
 
 Once you install PuTTY on Windows 11, leveraging its extensive features to enhance your networking capabilities becomes straightforward. Considering the utility's client-side orientation, you can configure a host of settings to flexibly manage your interactions with the remote server.
 
+.. image:: ../putty-app.jpg
+   :alt: Description of the image
+   :align: center
+   :class: full-width-image
+
 You can use PuTTY on Windows 11 to manage robust connections and save sessions for repeated access. Whether you aim for a Windows or Unix server, PuTTY's broad compatibility revolves around reducing technical barriers in connectivity.
 
 Routing Towards PuTTY Download Process
